@@ -3,7 +3,8 @@
 </p>
 
 `pyshotgrid` is a python package that gives you a pythonic and
-object oriented way to talk to [Autodesk Flow Production Tracking](https://www.autodesk.com/products/flow-production-tracking/overview)
+object oriented way to talk to [Autodesk Flow Production Tracking](
+  <!-- https://www.autodesk.com/products/flow-production-tracking/overview) -->
 (formally known as ShotGrid).
 
 # Quickstart
@@ -15,7 +16,9 @@ pip install pyshotgrid
 ```
 
 You are now ready to use it in your project (For other installation methods see the
-[Installation](https://fabiangeisler.github.io/pyshotgrid/installation.html) section in the documentation)!
+[Installation]
+<!-- (https://fabiangeisler.github.io/pyshotgrid/installation.html)  -->
+section in the documentation)!
 Here is a quick example to list the "code" (aka. "name") of all shots from all projects:
 
 ```python
